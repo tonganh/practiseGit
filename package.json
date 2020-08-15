@@ -1,0 +1,22 @@
+{
+  "name": "practisegit",
+  "version": "1.0.0",
+  "description": "lalalalal",
+  "main": "Cat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonganh/practiseGit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonganh/practiseGit/issues"
+  },
+  "homepage": "https://github.com/tonganh/practiseGit#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
