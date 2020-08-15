@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tonganh/practiseGit/issues"
   },
-  "homepage": "https://github.com/tonganh/practiseGit#readme"
+  "homepage": "https://github.com/tonganh/practiseGit#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
 }
