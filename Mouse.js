@@ -4,7 +4,8 @@ function Mouse(name) {
 }
 Mouse.prototype.die = function() {
   this.dead = true;
-} Mouse.prototype.run = function() {
+};
+Mouse.prototype.run = function() {
   console.log('Runn');
 };
 module.exports = Mouse;
